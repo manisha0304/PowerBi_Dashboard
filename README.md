@@ -1,5 +1,4 @@
-# PowerBi_Dashboard
-
+# Ossum chocolates Data Using PowerBi
 PowerBi end to end project on Ossum Choclates.
 
 ABOUT PROJECT :
